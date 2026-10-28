@@ -1,0 +1,15 @@
+# Caches do Python e do compilador
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Pesos de Deep Learning e Checkpoints volumosos
+*.pt
+*.bin
+*.pth
+saved_models/
+
+# Arquivos e diretórios internos do Google Colab
+.config/
+sample_data/
